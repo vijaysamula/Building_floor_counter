@@ -27,7 +27,8 @@ python eval.py
 
 # Plots
 
-![Test image 1] ("datasets/plots/mse_real_data/mae_error_train.svg")
+![Test image 1] (datasets/plots/mse_real_data/mae_error_train.svg)
+
 <img
 src=“datasets/plots/quantile_real_data/mae_error_train.svg”
 raw=true
