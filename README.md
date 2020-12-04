@@ -14,19 +14,26 @@ pillow
 # How to run
 to train the model 
 
-'''
+```
 python train.py --batch_size 3
-'''
+```
 
 to eval and visualize results 
 
-'''
+```
 python eval.py 
+```
 
-'''
 
 # Plots
 
 ![Test image 1] (datasets/plots/mse_real_data/mae_error_train.svg)
+
+<img
+src=“datasets/plots/quantile_real_data/mae_error_train.svg”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
 
 
