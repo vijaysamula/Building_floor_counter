@@ -14,16 +14,16 @@ pillow
 # How to run
 to train the model 
 
-'''
+```
 python train.py --batch_size 3
-'''
+´´´
 
 to eval and visualize results 
 
-'''
+```
 python eval.py 
 
-'''
+´´´
 
 # Plots
 
